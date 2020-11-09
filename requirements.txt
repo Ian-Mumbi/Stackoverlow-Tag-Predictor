@@ -2,4 +2,4 @@ streamlit==0.59.0
 joblib==0.14.1
 nltk==3.3
 pandas==0.25.3
-Pillow==8.0.1
+Pillow==7.2.0
